@@ -55,9 +55,7 @@ public class CozyChairBlock extends Block {
 		seat.setInvulnerable(true);
 		seat.setNoGravity(true);
 		seat.setSilent(true);
-		seat.setMarker(false);
 		seat.setShowArms(false);
-		seat.setSmall(true);
 		seat.addCommandTag(SEAT_TAG);
 
 		world.spawnEntity(seat);
