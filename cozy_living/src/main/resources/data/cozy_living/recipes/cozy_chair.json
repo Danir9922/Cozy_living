@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "misc",
+	"pattern": [
+		"PP",
+		"S ",
+		"S "
+	],
+	"key": {
+		"P": { "item": "minecraft:oak_planks" },
+		"S": { "item": "minecraft:stick" }
+	},
+	"result": {
+		"item": "cozy_living:cozy_chair",
+		"count": 1
+	}
+}
