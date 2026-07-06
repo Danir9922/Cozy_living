@@ -1,0 +1,21 @@
+{
+	"ambientocclusion": false,
+	"textures": {
+		"rug": "cozy_living:block/rug_pattern",
+		"particle": "cozy_living:block/rug_pattern"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 1, 16],
+			"faces": {
+				"north": {"uv": [0, 15, 16, 16], "texture": "#rug"},
+				"east": {"uv": [0, 15, 16, 16], "texture": "#rug"},
+				"south": {"uv": [0, 15, 16, 16], "texture": "#rug"},
+				"west": {"uv": [0, 15, 16, 16], "texture": "#rug"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#rug"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#rug"}
+			}
+		}
+	]
+}
